@@ -1,0 +1,26 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: graph2 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\31983\AppData\Local\Temp\RSP57C5.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/graph2.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\DataStructure\上机\lab6_201731061426龚涛\graph2.cpp"
+]
+Creating command line "cl.exe @C:\Users\31983\AppData\Local\Temp\RSP57C5.tmp" 
+<h3>Output Window</h3>
+Compiling...
+graph2.cpp
+E:\DataStructure\上机\lab6_201731061426龚涛\graph2.cpp(55) : warning C4715: 'LocateVex' : not all control paths return a value
+
+
+
+<h3>Results</h3>
+graph2.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
